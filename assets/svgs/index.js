@@ -1,0 +1,30 @@
+export {default as Group} from './Group.svg';
+export {default as Location} from './Location.svg';
+export {default as Direction} from './Direction.svg';
+export {default as Fill} from './Fill.svg';
+export {default as UserProfile} from './Profile.svg';
+export {default as TicketExpired} from './ticket-expired.svg';
+export {default as Calendar} from './calendar-plus-02.svg';
+export {default as Export} from './export.svg';
+export {default as Flag} from './flag.svg';
+export {default as Heart} from './heart-rounded.svg';
+export {default as Label} from './Label.svg';
+export {default as Sport} from './Sport.svg';
+export {default as Movie} from './Movie.svg';
+
+export {default as Dashboard} from './bottom-tab/dashboard.svg';
+export {default as DashboardActive} from './bottom-tab/dashboard-active.svg';
+export {default as Watch} from './bottom-tab/watch.svg';
+export {default as WatchActive} from './bottom-tab/watch-active.svg';
+export {default as Media} from './bottom-tab/media.svg';
+export {default as MediaActive} from './bottom-tab/media-active.svg';
+export {default as More} from './bottom-tab/more.svg';
+export {default as MoreActive} from './bottom-tab/more-active.svg';
+
+export {default as Option} from './option.svg';
+export {default as Search} from './search.svg';
+export {default as Close} from './close.svg';
+export {default as Back} from './back.svg';
+export {default as BackWhite} from './back-white.svg';
+export {default as Play} from './play.svg';
+export {default as Title} from './title.svg';
